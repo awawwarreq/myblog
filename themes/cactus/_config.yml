@@ -26,10 +26,10 @@ nav:
 # only 'mail' is an exception.
 social_links:
   github: https://github.com/awawwarreq
-  twitter: /
+  weibo: /
   facebook: /
   linkedin: /
-  mail: awawwarreq@163.com
+  mail: /
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
