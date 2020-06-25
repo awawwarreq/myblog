@@ -96,6 +96,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: paper
+
 highlight:
   hljs: true
   enable: true
