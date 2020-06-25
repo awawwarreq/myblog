@@ -16,7 +16,7 @@ direction: ltr
 nav:
   首页: /
   关于我: /about/
-  文章: /archives/
+  p5.js: /archives/
   项目: projects_url
 
 
