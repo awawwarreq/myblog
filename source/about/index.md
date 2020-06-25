@@ -1,14 +1,14 @@
 ---
-title: 鹿鹿徐
+title: about me
 date: 2020-06-06 21:18:55
 tags:
 ---
 
-![1](1.png)
+![](https://i.loli.net/2020/06/25/DeMqbtJEuLOHro7.jpg)
 
 ---
 # 徐璐璐
-### 99/04
+### 99/04/18
 ### 浙江理工大学 工业设计
-
+### awawwarreq@163.com
 
