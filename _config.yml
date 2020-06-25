@@ -95,13 +95,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: paper
-highlight:
-  hljs: true
-  enable: true
-  line_number: false
-  auto_detect: true
-  tab_replace: ''
+theme: cactus
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
