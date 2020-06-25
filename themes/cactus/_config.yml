@@ -16,8 +16,8 @@ direction: ltr
 nav:
   首页: /
   关于我: /about/
-  p5.js: /archives/
-  项目: projects_url
+  归档: /archives/
+  项目: https://github.com/awawwarreq
 
 
 # Links to your social media accounts.
